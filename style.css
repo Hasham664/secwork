@@ -1,0 +1,52 @@
+
+.container{
+background-color: rgb(151, 148, 148);
+display: flex;
+width: 620px;
+ margin: auto; 
+ position: absolute;
+top: 140px;
+left: 0px;
+right: 0px;
+
+}
+
+
+/* .box1 img{
+width: 170px;
+padding-top: 15px;
+border-radius: 30px;
+padding-left: 10px;
+padding-right: 10px;
+transform: ;
+}   */
+
+/* .box1{
+    border: 13px solid orangered;
+} */
+.box2 h1{
+    text-transform: uppercase;
+    padding-left: 30px;
+    padding-top: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+} 
+.box2 p{
+padding-left: 33px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.box2 button{
+    width: 180px;
+    height: 38px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
